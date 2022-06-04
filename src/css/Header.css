@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Salsa', cursive;
+}
+.head_footer{
+    margin-bottom: 20px;
+}
+.top_footer .col-4{
+    text-align: center;
+    margin: 30px 0px 10px 0px;
+}
+.logo_footer img{
+ width: 230px ;
+}
+.social_footer a{
+    margin: 0px 15px;
+}
+.left_footer p{
+    margin-top: 10px;
+    color: black;
+}
+.icon>path{
+    fill: #283050;
+    color: white;
+}
+
+.navbar_footer{
+    display: flex;
+    justify-content: center;
+}
+.navbar_footer a{
+    text-decoration: none;
+    color: #781107;
+    margin: 0px 30px;
+    padding-top: 10px;
+}
+.navbar_footer a:hover{
+    border-top: 3px solid #781107;
+}
+.Logo_for_tablets{
+    display: none;
+}
+hr{
+    color: gray;
+    height: 3px !important;
+    margin: -3px;
+    width: 100%;
+}
+.hiding{
+    display: none;
+}
+@media screen and (max-width:1000px){
+    .hiding{
+        display: block ;
+        width: fit-content;
+        margin: 0px auto;
+    }
+    .left_footer_hide{
+        background-color: black;
+    }
+    .social_footer_hide {
+        display: flex;
+
+    }
+    .tablet{
+        width: 100%;
+        height: 13vh;
+    }
+    hr{
+        display: none;
+    }
+  .navbar_footer{
+      display: block;
+  }
+ 
+    .navbar_footer a{
+        display: block;
+        padding: 0;
+        width: fit-content;
+        margin: 5px auto;
+    }
+    .navbar-toggler{
+        width: 80px;
+        float: right;
+        padding: 15px;
+    }
+    .Logo_for_tablets{
+        display: block;
+        float: left;
+        padding: 15px;
+        width: 180px;
+    }
+    .top_footer{
+        display: none;
+    }
+}

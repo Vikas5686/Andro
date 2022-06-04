@@ -1,0 +1,66 @@
+.Contact_head_line {
+    color: black;
+}
+
+.Contact_head_line::after {
+    width: 130px !important;
+    transform: translateX(-99px) !important;
+}
+
+.user-input {
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 7px;
+    width  :90%;
+    height: 50px;
+    margin: 20px;
+}
+
+.user-input::placeholder {
+    font-family: 'Salsa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 37px;
+    padding-left: 15px;
+    color: #C4C4C4;
+}
+.txt{
+    height: 200px;
+}
+.btn_contact{
+    float: right;
+    margin-right: 60px;
+}
+.left_contact {
+    background: radial-gradient(143.03% 121.46% at 131.76% -14.1%, #781107 0%, #283050 100%);
+    border-radius: 0px 92px 92px 0px;
+    padding: 50px 30px;
+}
+.left_contact p{
+    font-size: 25px;
+    margin: 10px 0px;
+}
+.left_contact h2{
+    font-size: 35px;
+    margin-bottom: 70px;
+}
+.left_contact_head_line{
+    color: white !important;
+    text-align: right;
+}
+.left_contact_head_line::after{
+    background-color: white !important;
+    transform: translateX(-90px) !important;
+}
+@media screen and (max-width:700px) {
+    .left_contact{
+    border-radius: 0px;
+    }
+    .btn_contact{
+        float: unset !important;
+        margin: 20px auto !important;
+        display: block !important;
+    }
+}

@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Salsa', cursive;
+}
+.team_head_line {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    width: 90%;
+}
+.team_head_line::after{
+    width: 160px !important;
+    left: 51% !important;
+    height: 2px !important;
+}
+.para {
+    width: 80%;
+   margin: 30px auto;
+   display: block;
+}
+.Team_rows{
+    justify-content: space-around;
+}
+.para p {
+    color: black;
+    font-size: 25px;
+}
+.team{
+    width: fit-content;
+}
+.team img{
+    width: 100%;
+    border-radius: 10px;
+}
+.middle_team_hide{
+    display: none;
+}
+.team p{
+    font-family: Salsa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+}
+.icon {
+    visibility: visible;
+    font-size: 50px;
+    color: #283050;
+    height: 40px !important;
+    width: 40px !important;
+}
+.middle_team{
+    margin-top:300px;
+}
+.icon>path {
+    fill: #283050;
+    color: white;
+}
+.team_button{
+    float:right;
+    margin: 30px 100px;
+    margin-right: 100px;
+}
+@media screen and (max-width:1000px) {
+    .middle_team{
+        display: none;
+    }
+    .middle_team_hide{
+        display: block;
+    }
+}
+@media screen and (max-width:700px){
+    .team p{
+        text-align: center;
+    }
+}

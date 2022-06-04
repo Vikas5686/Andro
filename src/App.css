@@ -1,0 +1,47 @@
+.active {
+  border-top: 3px solid #781107;
+}
+
+.row {
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+
+* {
+  font-family: 'Salsa';
+  font-style: normal;
+}
+
+.Btn_all {
+  font-family: 'Salsa';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 31px;
+  color: #FFFFFF;
+  background: #283050;
+  border-radius: 10px;
+  width: fit-content;
+  padding: 20px;
+}
+
+.Head_line {
+  position: relative;
+  color: black;
+  font-family: 'Salsa';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 49px;
+  margin: 20px auto;
+}
+
+.Head_line::after {
+  content: "";
+  width: 100px;
+  height: 3px;
+  background-color: black;
+  position: absolute;
+  top: 50px;
+  transform: translateX(-55px);
+}
