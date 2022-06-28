@@ -1,11 +1,11 @@
 import React from "react";
-import Digital from "./../img/Digital.png";
+import Digital from "../../img/Digital.png";
 import FacebookRoundedIcon from '@mui/icons-material/FacebookRounded';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import { NavLink } from 'react-router-dom';
-import toggle from '../img/toogle.png'
-import './../css/Header.css';
+import toggle from '../../img/toogle.png'
+import '../../css/Header.css';
 
 function Header() {
     return (

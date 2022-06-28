@@ -1,5 +1,5 @@
 import React from 'react'
-import ProgramData from './static data/ProgrammingData'
+import ProgramData from '../static data/ProgrammingData'
 
 export default function Servic_card(props) {
   return (

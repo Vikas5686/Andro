@@ -1,9 +1,9 @@
 import React from 'react';
-import './../css/Home.css';
-import R1 from '../img/Rectangle 15.png'
-import R2 from '../img/Rectangle 16.png'
-import R3 from '../img/Rectangle 17.png'
-import R4 from '../img/Rectangle 18.png'
+import '../../css/Home.css';
+import R1 from '../../img/Rectangle 15.png'
+import R2 from '../../img/Rectangle 16.png'
+import R3 from '../../img/Rectangle 17.png'
+import R4 from '../../img/Rectangle 18.png'
 
 function Home() {
     return (
