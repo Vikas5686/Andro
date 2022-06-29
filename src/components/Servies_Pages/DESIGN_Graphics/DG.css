@@ -1,0 +1,50 @@
+.DG_HeadLINe {
+    text-align: center;
+    font-size: 38px;
+}
+
+.DS_Row_1 {
+    padding: 0px 30px;
+    height: auto;
+    position: relative;
+}
+
+.DS_P_1 {
+    font-weight: 550;
+    font-size: 34px;
+    line-height: 49px;
+    color: #000000;
+    margin-left: 30px;
+}
+
+.DS1_IMG {
+    width: 100%;
+}
+
+.btn_DS {
+    position: absolute;
+    bottom: 0;
+    right: 45px;
+    margin-left: ;
+    text-align: left;
+    display: block;
+}
+
+.DS_P_2 {
+    font-weight: 500;
+    margin: 10px 0px 20px 0px;
+    font-size: 30px;
+    line-height: 37px;
+    color: #000000;
+    text-align: center;
+}
+
+.list ul li {
+    color: #000000;
+    text-align: left;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 45px;
+    margin-left: 65px;
+    list-style: none;
+}

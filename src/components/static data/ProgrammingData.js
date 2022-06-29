@@ -13,6 +13,11 @@ import S12 from '../../img/service_images/unsplash_RDxr5k3TUds1212121212.png'
 import S13 from '../../img/service_images/unsplash_zIwAchjDirM13131313.png'
 import S14 from '../../img/service_images/unsplash_eveI7MOcSmw141414.png'
 import S15 from '../../img/service_images/unsplash_X-etICbUKec151515.png'
+import S16 from '../../components/Servies_Pages/Services_IMGs/unsplash_5o_Du4n9_PEDSGP-2.png'
+import S17 from '../../components/Servies_Pages/Services_IMGs/unsplash_RhGK4qOwxxwDSGP-3.png'
+import S18 from '../../components/Servies_Pages/Services_IMGs/unsplash_5NX5x2-O7KUDSGP-4.png'
+
+
 
 const programmingData = [
   {
@@ -88,6 +93,21 @@ const programmingData = [
     title: "Audio" 
     
   },
+  {
+    img:  S16, 
+    title: "Graphics Designing" 
+    
+  },
+  {
+    img:  S17, 
+    title: "Poster Designing" 
+    
+  },
+  {
+    img:  S18, 
+    title: "Product Designing" 
+    
+  }
  
 ];
 export default programmingData;

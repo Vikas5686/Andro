@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Andromeda_official/static/css/main.4abfee14.css",
-    "main.js": "/Andromeda_official/static/js/main.a9f9e809.js",
+    "main.css": "/Andromeda_official/static/css/main.999315ac.css",
+    "main.js": "/Andromeda_official/static/js/main.7523b31a.js",
+    "static/media/unsplash_3MAmj1ZKSZADSGP1.png": "/Andromeda_official/static/media/unsplash_3MAmj1ZKSZADSGP1.c9cfdd6e6f237a985905.png",
     "static/media/unsplash_zwd435-ewb4888888888.png": "/Andromeda_official/static/media/unsplash_zwd435-ewb4888888888.61ffa9d972d6ccb125c9.png",
     "static/media/testinomial_Background.png": "/Andromeda_official/static/media/testinomial_Background.0acd8bd36a998ff95bb9.png",
     "static/media/unsplash_X-etICbUKec151515.png": "/Andromeda_official/static/media/unsplash_X-etICbUKec151515.24503fa4ee385196a0ee.png",
@@ -16,10 +17,13 @@
     "static/media/unsplash_H424WdcQN4Y4444444444444.png": "/Andromeda_official/static/media/unsplash_H424WdcQN4Y4444444444444.a681450f18884f4a67f6.png",
     "static/media/testinomial_1.png": "/Andromeda_official/static/media/testinomial_1.08a63dbc2ec5d11995a3.png",
     "static/media/unsplash_zIwAchjDirM13131313.png": "/Andromeda_official/static/media/unsplash_zIwAchjDirM13131313.037f99cc8b8f25cb3cd3.png",
+    "static/media/unsplash_RhGK4qOwxxwDSGP-3.png": "/Andromeda_official/static/media/unsplash_RhGK4qOwxxwDSGP-3.622369be9a81b1a75b23.png",
     "static/media/Rectangle 15.png": "/Andromeda_official/static/media/Rectangle 15.ea1e73d0d90dbd741692.png",
+    "static/media/unsplash_5o_Du4n9_PEDSGP-2.png": "/Andromeda_official/static/media/unsplash_5o_Du4n9_PEDSGP-2.5c780cd0a0a194b7dabc.png",
     "static/media/Digital.png": "/Andromeda_official/static/media/Digital.ff62f1ea6b31be03332f.png",
     "static/media/testinomial_3.png": "/Andromeda_official/static/media/testinomial_3.f68cc07ce00609e89f9e.png",
     "static/media/Rectangle 18.png": "/Andromeda_official/static/media/Rectangle 18.246ec59a1aabe078e6aa.png",
+    "static/media/unsplash_5NX5x2-O7KUDSGP-4.png": "/Andromeda_official/static/media/unsplash_5NX5x2-O7KUDSGP-4.057763352ee508c3e43d.png",
     "static/media/testinomial_2.png": "/Andromeda_official/static/media/testinomial_2.7dbdb38f9bf5d0b510ad.png",
     "static/media/Rectangle 17.png": "/Andromeda_official/static/media/Rectangle 17.e03b33c18aee2cbb6a34.png",
     "static/media/Rectangle 43333333333.png": "/Andromeda_official/static/media/Rectangle 43333333333.627b19bb58c8aef05bec.png",
@@ -31,11 +35,11 @@
     "static/media/DebadipBandyopadhyay.jpeg": "/Andromeda_official/static/media/DebadipBandyopadhyay.c4c529d549ffb0d89823.jpeg",
     "static/media/KunalShankar.jpeg": "/Andromeda_official/static/media/KunalShankar.d3f5b69f00ac5ef0875c.jpeg",
     "index.html": "/Andromeda_official/index.html",
-    "main.4abfee14.css.map": "/Andromeda_official/static/css/main.4abfee14.css.map",
-    "main.a9f9e809.js.map": "/Andromeda_official/static/js/main.a9f9e809.js.map"
+    "main.999315ac.css.map": "/Andromeda_official/static/css/main.999315ac.css.map",
+    "main.7523b31a.js.map": "/Andromeda_official/static/js/main.7523b31a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4abfee14.css",
-    "static/js/main.a9f9e809.js"
+    "static/css/main.999315ac.css",
+    "static/js/main.7523b31a.js"
   ]
 }
