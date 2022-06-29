@@ -1,0 +1,28 @@
+.design_back {
+    color: black;
+}
+
+.PV_Headline {
+    margin: 30px 0px;
+}
+
+.PV_Row_2 {
+    margin: 30px 0px;
+}
+
+.PV_R {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+    padding-top: 30px;
+}
+.PD_Top{
+    padding-top: 100px;
+}
+
+.PHOTO_Video h4{
+    padding: 10px 0px;
+    text-align: center;
+    color: #000000;
+}

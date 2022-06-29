@@ -1,5 +1,4 @@
 import React from 'react';
-import '../../../css/Design_and_Graphs.css'
 import './DG.css'
 import ScrollToTopOnMount from '../ScrollToTop'
 import Servic_card from '../Servic_card'
@@ -20,14 +19,14 @@ const Design_Graphics = () => {
                     <button className='Btn_all btn_DS'>Get Quotation</button>
                 </div>
             </div>
-            <div className="row DS_Row_2">
+            <div className="row DS_Row_1 DS_Row_2">
             <Servic_card id={0} id2={1} id3={2} />
             </div>
-            <div className="row DS_Row_2">
+            <div className="row DS_Row_1 DS_Row_2">
             <Servic_card id={15} id2={16} id3={17} />
             </div>
             <p className='DS_P_2'>Other services that we provide in designing</p>
-            <div className="row DS_Row_2">
+            <div className="row DS_Row_1 DS_Row_2">
                 <div className="col-md-4 list">
                 <ul>
                     <li>3D Modeling</li>

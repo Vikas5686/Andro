@@ -1,0 +1,20 @@
+.DM_P_1{
+    font-size: 30px;
+    line-height: 35px;
+    padding-top: 20px;
+}
+.DM_para{
+    padding-left: 10px;
+    font-size: 30px !important;
+}
+.DM_btn{
+    display: block;
+    margin-left: auto;
+}
+.Dm_row_2{
+    margin: 30px 0px;
+    justify-content: space-between;
+}
+.DM_para_2{
+    text-align: center;
+}
