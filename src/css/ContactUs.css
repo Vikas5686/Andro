@@ -54,6 +54,12 @@
     background-color: white !important;
     transform: translateX(-90px) !important;
 }
+.bio1{
+    text-align: center;
+}
+svg{
+    margin-bottom: 18px;
+}
 @media screen and (max-width:700px) {
     .left_contact{
     border-radius: 0px;

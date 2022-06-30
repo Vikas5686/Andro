@@ -28,7 +28,7 @@ export default function Digital_Marketing() {
             <img className='DS1_IMG PV-IMG_1' src={DM2} alt="" srcset="" />
           </div>
           <div className="col-md-3">
-            <img className='DS1_IMG PV-IMG_1' src={DM3} alt="" srcset="" />
+            <img className='DS1_IMG PV-IMG_1 hide_DM' src={DM3} alt="" srcset="" />
           </div>
         </div>
         <div className="row">
@@ -80,7 +80,7 @@ export default function Digital_Marketing() {
             <img className='DS1_IMG PV-IMG_1' src={DM4} alt="" srcset="" />
           </div>
           <div className="col-md-3">
-            <img className='DS1_IMG PV-IMG_1' src={DM5} alt="" srcset="" />
+            <img className='DS1_IMG PV-IMG_1 hide_DM' src={DM5} alt="" srcset="" />
           </div>
         </div>
       </div>

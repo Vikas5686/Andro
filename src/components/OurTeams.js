@@ -19,14 +19,14 @@ function OurTeams() {
                 </div>
                 <div className='middle_team team col-md-4'>
                     <img src={KunalShankar} alt="KunalShankar" id='mid' />
-                    <div className='bio2'>
+                    <div className='bio1'>
                         <p>Kunal Shankar</p>
                         <p><LinkedInIcon className='icon' />Co-Founder</p>
                     </div>
                 </div>
                 <div className='right_team team col-md-4'>
                     <img src={SandipShaha} alt="SandipShaha" />
-                    <div className='bio3'>
+                    <div className='bio1'>
                         <p>Sandip Shaha</p>
                         <p><LinkedInIcon className='icon' />Founder</p>
                     </div>

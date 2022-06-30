@@ -12,6 +12,7 @@
 
 .PV_R {
     font-weight: 400;
+    text-align:justify;
     font-size: 25px;
     line-height: 31px;
     color: #000000;
@@ -25,4 +26,12 @@
     padding: 10px 0px;
     text-align: center;
     color: #000000;
+}
+@media screen and (max-width:750px) {
+    .PD_Top{
+        padding-top: 0px;
+    } 
+    .PV_Row_2{
+        border: 2px solid #791208;
+    }
 }

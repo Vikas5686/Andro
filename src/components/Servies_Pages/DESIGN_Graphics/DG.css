@@ -43,3 +43,21 @@
     margin-left: 65px;
     list-style: none;
 }
+@media screen and (max-width:750px) {
+    .DG_HeadLINe::after{
+        display: none;
+    }
+.list ul li {
+    margin-left: 0px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 22px;
+}
+.list ul {
+    padding: 0px;
+}
+.DS_P_1{
+    text-align: center;
+    font-size: 25px;
+}
+}

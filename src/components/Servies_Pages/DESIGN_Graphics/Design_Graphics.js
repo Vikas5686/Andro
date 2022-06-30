@@ -27,7 +27,7 @@ const Design_Graphics = () => {
             </div>
             <p className='DS_P_2'>Other services that we provide in designing</p>
             <div className="row DS_Row_1 DS_Row_2">
-                <div className="col-md-4 list">
+                <div className="col-sm-4 list">
                 <ul>
                     <li>3D Modeling</li>
                     <li>Character Modeling</li>
@@ -35,7 +35,7 @@ const Design_Graphics = () => {
                     <li>Flyer</li>
                 </ul>
                 </div>
-                <div className="col-md-4 list">
+                <div className="col-sm-4 list">
                 <ul >
                     <li>Poster</li>
                     <li>Catalogue</li>

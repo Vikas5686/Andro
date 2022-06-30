@@ -18,3 +18,20 @@
 .DM_para_2{
     text-align: center;
 }
+@media screen and (max-width:750px) {
+    .DM_P_1{
+        font-size: 27px;
+        line-height: 30px;
+        padding-top: 10px;
+        margin: 0px;
+    }
+    .DM_para{
+        font-size: 30px;
+    }
+    .DM_btn{
+       margin:10px auto;
+    }
+    .hide_DM{
+        display: none;
+    }
+}

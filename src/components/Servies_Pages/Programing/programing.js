@@ -10,7 +10,8 @@ export default function Programing() {
     <div>
       <ScrollToTopOnMount />
       <h1 className='Head_line DG_HeadLINe P_Heading '>Programing</h1>
-      <div className="row DS_Row_1">
+      <div className="programing DS_Row_1">
+      <div className="row ">
         <div className="col-md-6">
           <img className='DS1_IMG' src={PRGRAM1} />
         </div>
@@ -26,7 +27,7 @@ export default function Programing() {
         <Servic_card id={6} id2={7} id3={8} />
       </div>
       <p className='DS_P_2 p_1'>Get your website & App imagination come true with our experienced team as per your need. Make your website responsive across all devices & with easy to use, user interface along with extraordinary responsive time. Bring high security to your Android & iOS Applications.</p>
-    
+      </div>
     </div>
   )
 }
