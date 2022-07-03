@@ -4,6 +4,7 @@ import DebadipBandyopadhyay from "./../img/DebadipBandyopadhyay.jpeg";
 import KunalShankar from "./../img/KunalShankar.jpeg";
 import SandipShaha from "./../img/SandipShaha.jpeg";
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import {NavLink} from 'react-router-dom'
 
 function OurTeams() {
     return (
@@ -14,7 +15,7 @@ function OurTeams() {
                     <img src={DebadipBandyopadhyay} alt="DebadipBandyopadhyay" />
                     <div className='bio1'>
                         <p>Debadip Bandyopadhyay</p>
-                        <p><LinkedInIcon className='icon' />Founder</p>
+                        <p><a href="https://www.linkedin.com/in/debadipb/" target='_blank'><LinkedInIcon className='icon' /></a>Founder</p>
                     </div>
                 </div>
                 <div className='middle_team team col-md-4'>
@@ -44,7 +45,7 @@ function OurTeams() {
                     marketing and bring a result-oriented digital plan for you. We believe in customer satisfaction and<br />
                     quality delivery in every project we take.</p>
             </div>
-            <button className='Btn_all team_button'>Let's talk</button>
+            <NavLink to="/contactus"><button className='Btn_all team_button'>Let's talk</button></NavLink>
         </div>
     )
 }

@@ -1,9 +1,11 @@
 import React from 'react';
 import './../css/ContactUs.css';
+import ScrollToTopOnMount from './Servies_Pages/ScrollToTop'
 
 const ContactUs=()=> {
     return (
         <div>
+            <ScrollToTopOnMount/>
             <div className="class row">
                 <div className="left_contact col-md-5" >
                     <h2>Get Connected...</h2>

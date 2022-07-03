@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Andromeda_official/static/css/main.080f0883.css",
-    "main.js": "/Andromeda_official/static/js/main.dbae0c3e.js",
+    "main.css": "/Andromeda_official/static/css/main.bf1bda96.css",
+    "main.js": "/Andromeda_official/static/js/main.c6114d7d.js",
     "static/media/unsplash_3MAmj1ZKSZADSGP1.png": "/Andromeda_official/static/media/unsplash_3MAmj1ZKSZADSGP1.c9cfdd6e6f237a985905.png",
     "static/media/unsplash_zwd435-ewb4888888888.png": "/Andromeda_official/static/media/unsplash_zwd435-ewb4888888888.61ffa9d972d6ccb125c9.png",
     "static/media/unsplash_WxM465oM4j4_PV-1.png": "/Andromeda_official/static/media/unsplash_WxM465oM4j4_PV-1.e166482a900c03b36b0d.png",
@@ -18,7 +18,6 @@
     "static/media/Home_back.png": "/Andromeda_official/static/media/Home_back.05e99378bee110556087.png",
     "static/media/unsplash_H424WdcQN4Y4444444444444.png": "/Andromeda_official/static/media/unsplash_H424WdcQN4Y4444444444444.a681450f18884f4a67f6.png",
     "static/media/unsplash_lqyqm2ICIcY_DM_4.png": "/Andromeda_official/static/media/unsplash_lqyqm2ICIcY_DM_4.50f42a6c28f8f893d5a8.png",
-    "static/media/testinomial_1.png": "/Andromeda_official/static/media/testinomial_1.08a63dbc2ec5d11995a3.png",
     "static/media/unsplash_zIwAchjDirM13131313.png": "/Andromeda_official/static/media/unsplash_zIwAchjDirM13131313.037f99cc8b8f25cb3cd3.png",
     "static/media/unsplash_RhGK4qOwxxwDSGP-3.png": "/Andromeda_official/static/media/unsplash_RhGK4qOwxxwDSGP-3.622369be9a81b1a75b23.png",
     "static/media/Rectangle 15.png": "/Andromeda_official/static/media/Rectangle 15.ea1e73d0d90dbd741692.png",
@@ -29,14 +28,12 @@
     "static/media/Digital.png": "/Andromeda_official/static/media/Digital.ff62f1ea6b31be03332f.png",
     "static/media/unsplash_qwtCeJ5cLYs_DM_5.png": "/Andromeda_official/static/media/unsplash_qwtCeJ5cLYs_DM_5.cba4dfd4fe22fcde764b.png",
     "static/media/unsplash_wBzam0EPbXU_PV-2.png": "/Andromeda_official/static/media/unsplash_wBzam0EPbXU_PV-2.1472d8b43956fda5ebc0.png",
-    "static/media/testinomial_3.png": "/Andromeda_official/static/media/testinomial_3.f68cc07ce00609e89f9e.png",
     "static/media/unsplash_yk9VXp4W5-Q_PV_4.png": "/Andromeda_official/static/media/unsplash_yk9VXp4W5-Q_PV_4.4ed6ee94b10a40e37b02.png",
     "static/media/Rectangle 18.png": "/Andromeda_official/static/media/Rectangle 18.246ec59a1aabe078e6aa.png",
     "static/media/unsplash_RDxr5k3TUds_PV_3.png": "/Andromeda_official/static/media/unsplash_RDxr5k3TUds_PV_3.b74bebe395f3d86c2bbd.png",
     "static/media/unsplash_CNbRsQj8mHQ_DM_2.png": "/Andromeda_official/static/media/unsplash_CNbRsQj8mHQ_DM_2.47b0ecf54c47dfd4728f.png",
     "static/media/unsplash_5NX5x2-O7KUDSGP-4.png": "/Andromeda_official/static/media/unsplash_5NX5x2-O7KUDSGP-4.057763352ee508c3e43d.png",
     "static/media/unsplash_l5if0iQfV4c_DM_0.png": "/Andromeda_official/static/media/unsplash_l5if0iQfV4c_DM_0.82619bad4b0dfc90722d.png",
-    "static/media/testinomial_2.png": "/Andromeda_official/static/media/testinomial_2.7dbdb38f9bf5d0b510ad.png",
     "static/media/Rectangle 17.png": "/Andromeda_official/static/media/Rectangle 17.e03b33c18aee2cbb6a34.png",
     "static/media/Rectangle 43333333333.png": "/Andromeda_official/static/media/Rectangle 43333333333.627b19bb58c8aef05bec.png",
     "static/media/Rectangle 16.png": "/Andromeda_official/static/media/Rectangle 16.0c33a834f8e241d18a90.png",
@@ -48,11 +45,11 @@
     "static/media/DebadipBandyopadhyay.jpeg": "/Andromeda_official/static/media/DebadipBandyopadhyay.c4c529d549ffb0d89823.jpeg",
     "static/media/KunalShankar.jpeg": "/Andromeda_official/static/media/KunalShankar.d3f5b69f00ac5ef0875c.jpeg",
     "index.html": "/Andromeda_official/index.html",
-    "main.080f0883.css.map": "/Andromeda_official/static/css/main.080f0883.css.map",
-    "main.dbae0c3e.js.map": "/Andromeda_official/static/js/main.dbae0c3e.js.map"
+    "main.bf1bda96.css.map": "/Andromeda_official/static/css/main.bf1bda96.css.map",
+    "main.c6114d7d.js.map": "/Andromeda_official/static/js/main.c6114d7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.080f0883.css",
-    "static/js/main.dbae0c3e.js"
+    "static/css/main.bf1bda96.css",
+    "static/js/main.c6114d7d.js"
   ]
 }

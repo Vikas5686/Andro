@@ -77,4 +77,9 @@
     .team p{
         text-align: center;
     }
+.team_button{
+    display: block;
+    float:unset;
+    margin: 30px auto;
+}
 }

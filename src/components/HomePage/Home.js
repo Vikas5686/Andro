@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 import '../../css/Home.css';
 import R1 from '../../img/Rectangle 15.png'
 import R2 from '../../img/Rectangle 16.png'
@@ -21,7 +22,7 @@ function Home() {
                         <p className='padding_left'>We provide every element needed by an <br />individual or an organization to keep their <br />
                             digital presence alive.</p>
                     </div>
-                    <button className='Btn_all btn_home'>Let's talk</button>
+                    <NavLink to="/contactus"><button className='Btn_all btn_home'>Let's talk</button></NavLink>
                 </div>
                 <h1 className='Head_line'>Portfolio</h1>
                 <div className="row Image_Cards">
@@ -38,7 +39,7 @@ function Home() {
                         <img src={R4} alt="" />
                     </div>
                 </div>
-                <button className='Btn_all btn_home' >Let's talk</button>
+                <NavLink to="/contactus"> <button className='Btn_all btn_home' >Let's talk</button></NavLink>
             </div>
     )
 }

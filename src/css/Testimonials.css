@@ -12,12 +12,14 @@
     font-size: 25px;
     line-height: 31px;
     color: #000000;
+    margin: 0px;
 }
 .body3 p{
     font-family: Salsa;
     font-style: normal;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 17px;
+    text-align: justify;
     line-height: 22px;
     color: #000000;
 }
@@ -25,7 +27,7 @@
     font-family: Salsa;
     font-style: normal;
     font-weight: normal;
-    font-size: 25px;
+    font-size: 23px;
     line-height: 31px;
     color: #000000;
 }
@@ -56,14 +58,14 @@
     background-repeat: no-repeat;
 }
 .body1{
-    background: url('../img/testinomial_1.png');
+    background: #e3e3e3;
 }
 .body2{
-    background: url('../img/testinomial_2.png');
+    background: #e3e3e3;
 }
 .body3{
-    background: url('../img/testinomial_3.png');
-    padding: 28px 0px !important;
+    background: #e3e3e3;
+    padding: 28px 13px !important;
 }
 .body_for_all{
     background-size: cover;

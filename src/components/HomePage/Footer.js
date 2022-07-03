@@ -15,6 +15,8 @@ function Footer(){
             </div>
             <div className="andro col-md-4">
                 <h5>Andromeda Digital</h5>
+                <p>Email - andromedadigitalusa@gmail.com</p>
+                <p>Mobile No. - 7980072892</p>
             </div>
         </div>
     )

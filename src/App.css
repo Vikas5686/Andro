@@ -11,7 +11,9 @@
   font-family: 'Salsa';
   font-style: normal;
 }
-
+a:link{
+  text-decoration: none;
+}
 .Btn_all {
   font-family: 'Salsa';
   font-style: normal;
@@ -23,6 +25,7 @@
   border-radius: 10px;
   width: fit-content;
   padding: 20px;
+  border: 0px;
 }
 
 .Head_line {

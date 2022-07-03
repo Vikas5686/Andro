@@ -15,8 +15,10 @@ function Testimonials() {
                         </div>
                     </div>
                     <div className=' col-md-4'>
-                        <div className="body2 body_for_all">
-                        <p >A video testimony should be here</p>
+                        <div className="body2 body3 body_for_all">
+                        <p >"What a helpful bunch. After being scammed by another web design company, I was recommended Fluid Studios and I now know why. They are quick to respond, informative and deliver what is asked for. Would highly recommend. Thanks guys!"</p>
+                        <h4>Vikas Sharma</h4>
+                        <h4>Project: Machine Lerning</h4>
                         </div>
                     </div>
                     <div className=' col-md-4'>

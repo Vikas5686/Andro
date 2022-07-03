@@ -11,7 +11,8 @@ class App extends Component {
         <div className="App container-fluid px-0">
           <Header />
           <Routes>
-            <Route path='/' element={<Home />} />
+            <Route path='/Andromeda_official' element={<Home />} />
+            {/* <Route path='/' element={<Home />} /> */}
             <Route exact path='/service' element={<OurServices />} />
             <Route path='/ourteams' element={<OurTeams />} />
             <Route path='/DG' element={<Design_Graphics />} />

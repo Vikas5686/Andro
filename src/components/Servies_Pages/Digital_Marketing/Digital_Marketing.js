@@ -7,12 +7,15 @@ import DM2 from '../Services_IMGs/unsplash_CNbRsQj8mHQ_DM_2.png'
 import DM3 from '../Services_IMGs/unsplash_l5if0iQfV4c_DM_0.png'
 import DM4 from '../Services_IMGs/unsplash_lqyqm2ICIcY_DM_4.png'
 import DM5 from '../Services_IMGs/unsplash_qwtCeJ5cLYs_DM_5.png'
+import {NavLink} from 'react-router-dom'
+
+
 export default function Digital_Marketing() {
   return (
     <div>
       <ScrollToTopOnMount />
       <div className="Digital_Margketing DS_Row_1">
-        <h1 className='Head_line DG_HeadLINe PV_Headline'>Photos and Videos</h1>
+        <h1 className='Head_line DG_HeadLINe PV_Headline'>Digital Marketing</h1>
         <div className="row ">
           <div className="col-md-6">
             <img className='DS1_IMG PV-IMG_1' src={DM1} />
@@ -22,7 +25,7 @@ export default function Digital_Marketing() {
           </div>
         </div>
         <p className='PV_R DM_para'>Don’t worry if you don’t have one, we are here to help you.</p>
-        <button className='Btn_all DM_btn'>Get Quotation</button>
+        <NavLink to="/contactus"><button className='Btn_all DM_btn'>Get Quotation</button></NavLink>
         <div className="row Dm_row_2">
           <div className="col-md-3">
             <img className='DS1_IMG PV-IMG_1' src={DM2} alt="" srcset="" />

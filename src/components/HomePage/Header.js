@@ -12,15 +12,15 @@ function Header() {
         <div className="head_footer navbar-expand-lg">
             <div className="top_footer row ">
                 <div className="left_footer col-4" >
-                    <p>Company Email will be here</p>
+                    <p>andromedadigitalusa@gmail.com</p>
                 </div>
                 <div className="logo_footer col-4" >
                     <img src={Digital} alt="Digital"  />
                 </div>
                 <div className="social_footer col-4" >
-                    <a href="#"><LinkedInIcon className="icon" /></a>
-                    <a href="#"><FacebookRoundedIcon className="icon" /></a>
-                    <a href="#"><InstagramIcon className="icon" /></a>
+                    <a href="https://www.linkedin.com/company/65293055/admin/" target='_blank'><LinkedInIcon className="icon" /></a>
+                    <a href="https://www.facebook.com/andromedadigitalusa/?ref=pages_you_manage" target='_blank'><FacebookRoundedIcon className="icon" /></a>
+                    <a href="https://www.instagram.com/andromedadigitalusa/" target='_blank'><InstagramIcon className="icon" /></a>
                 </div>
             </div>
             <div className="tablet">
@@ -29,18 +29,18 @@ function Header() {
             </div>
         <hr />
             <div className="navbar_footer  collapse navbar-collapse" id="navbarSupportedContent">
-                <NavLink to="/">Home</NavLink>
+                <NavLink to="/Andromeda_official">Home</NavLink>
                 <NavLink to="/service">Our Services</NavLink>
                 <NavLink to="/ourteams">Our Teams</NavLink>
                 <NavLink to="/testimonials">Testimonials</NavLink>
                 <NavLink to="/contactus">Contact Us</NavLink>
                 <div className="hiding left_footer_hide" >
-                    <p>Company Email will be here</p>
+                    <p>andromedadigitalusa@gmail.com</p>
                 </div>
                 <div className="social_footer_hide hiding" >
-                    <a href="#"><LinkedInIcon className="icon" /></a>
-                    <a href="#"><FacebookRoundedIcon className="icon" /></a>
-                    <a href="#"><InstagramIcon className="icon" /></a>
+                    <a href="https://www.linkedin.com/company/65293055/admin/" target='_blank'><LinkedInIcon className="icon" /></a>
+                    <a href="https://www.facebook.com/andromedadigitalusa/?ref=pages_you_manage" target='_blank'><FacebookRoundedIcon className="icon" /></a>
+                    <a href="https://www.instagram.com/andromedadigitalusa/" target='_blank'><InstagramIcon className="icon" /></a>
                 </div>
             </div>
         </div>

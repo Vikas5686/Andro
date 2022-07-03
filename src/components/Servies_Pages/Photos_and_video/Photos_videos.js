@@ -9,6 +9,8 @@ import PV_4 from '../Services_IMGs/unsplash_yk9VXp4W5-Q_PV_4.png'
 import PV_5 from '../Services_IMGs/Rectangle 12_PV_5.png'
 import PV_6 from '../Services_IMGs/unsplash_X-etICbUKec_PV_6.png'
 import './PV.css'
+import {NavLink} from 'react-router-dom'
+
 export default function Photos_videos() {
   return (
     <div>
@@ -21,7 +23,7 @@ export default function Photos_videos() {
           </div>
           <div className="col-md-6 ">
             <p className='DS_P_1 P_1'>Get your moments and memories Captured...</p>
-            <button className='Btn_all btn_DS'>Get Quotation</button>
+            <NavLink to="/contactus"><button className='Btn_all btn_DS'>Get Quotation</button></NavLink>
           </div>
         </div>
         <div className="row DS_Row_1 PV_Row_2">

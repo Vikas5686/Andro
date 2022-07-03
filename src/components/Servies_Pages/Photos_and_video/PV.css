@@ -28,6 +28,9 @@
     color: #000000;
 }
 @media screen and (max-width:750px) {
+.PHOTO_Video h4{
+font-size: 30px;
+}
     .PD_Top{
         padding-top: 0px;
     } 
