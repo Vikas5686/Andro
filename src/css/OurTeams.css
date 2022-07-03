@@ -12,9 +12,9 @@
     width: 90%;
 }
 .team_head_line::after{
-    width: 160px !important;
-    left: 51% !important;
-    height: 2px !important;
+    width: 70px !important;
+    left: 59%!important;
+    height: 3px !important;
 }
 .para {
     width: 80%;

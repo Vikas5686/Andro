@@ -3,14 +3,17 @@
     font-size: 38px;
     margin: 30px 0px;
 }
+
 .DS_Row_1 {
     padding: 0px 10px;
     height: auto;
 }
-.DS_1{
+
+.DS_1 {
     position: relative;
 
 }
+
 .DS_P_1 {
     font-weight: 550;
     font-size: 34px;
@@ -18,9 +21,11 @@
     color: #000000;
     margin-left: 30px;
 }
+
 .DS1_IMG {
     width: 100%;
 }
+
 .btn_DS {
     position: absolute;
     bottom: 0;
@@ -29,6 +34,7 @@
     text-align: left;
     display: block;
 }
+
 .DS_P_2 {
     font-weight: 500;
     margin: 10px 0px 20px 0px;
@@ -37,6 +43,7 @@
     color: #000000;
     text-align: center;
 }
+
 .list ul li {
     color: #000000;
     text-align: left;
@@ -46,24 +53,28 @@
     margin-left: 65px;
     list-style: none;
 }
+
 @media screen and (max-width:750px) {
-    .DG_HeadLINe::after{
+    .DG_HeadLINe::after {
         display: none;
     }
-.list ul li {
-    margin-left: 0px;
-    text-align: left;
-    line-height: 30px;
-    font-size: 22px;
-}
-.list ul {
-    padding: 0px;
-}
-.DS_P_1{
-    text-align: center;
-    font-size: 25px;
-    margin: 0px;
-    line-height: 40px;
-}
+
+    .list ul li {
+        margin-left: 0px;
+        text-align: left;
+        line-height: 30px;
+        font-size: 22px;
+    }
+
+    .list ul {
+        padding: 0px;
+    }
+
+    .DS_P_1 {
+        text-align: center;
+        font-size: 25px;
+        margin: 0px;
+        line-height: 40px;
+    }
 
 }

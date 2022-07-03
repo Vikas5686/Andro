@@ -40,8 +40,8 @@
 }
 .testinomial_head_line::after{
     transform: translateX(-150px) !important;
-    width: 180px !important;
-    top: 55px !important;
+    width: 170px !important;
+    top: 56px !important;
 }
 .body_testinomial{
     padding: 0px 20px;

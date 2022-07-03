@@ -41,7 +41,7 @@ a:link{
 
 .Head_line::after {
   content: "";
-  width: 100px;
+  width:70px;
   height: 3px;
   background-color: black;
   position: absolute;
